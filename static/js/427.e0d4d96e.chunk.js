@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_nation=self.webpackChunkslim_nation||[]).push([[427],{427:function(n,i,e){e.r(i);var s=e(184);i.default=function(){return(0,s.jsx)("div",{children:"Login"})}}}]);
+//# sourceMappingURL=427.e0d4d96e.chunk.js.map

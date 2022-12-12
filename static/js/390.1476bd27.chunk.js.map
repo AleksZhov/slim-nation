@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/390.1476bd27.chunk.js","mappings":"kIAGA,UAHmB,WACf,OAAO","sources":["pages/Calculator/Calculator.jsx"],"sourcesContent":["const Calculator = () => {\n    return <div>Calculator</div>;\n};\nexport default Calculator;\n"],"names":[],"sourceRoot":""}

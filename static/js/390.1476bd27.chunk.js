@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_nation=self.webpackChunkslim_nation||[]).push([[390],{390:function(n,i,t){t.r(i);var u=t(184);i.default=function(){return(0,u.jsx)("div",{children:"Calculator"})}}}]);
+//# sourceMappingURL=390.1476bd27.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_nation=self.webpackChunkslim_nation||[]).push([[643],{643:function(n,e,i){i.r(e);var s=i(184);e.default=function(){return(0,s.jsx)("div",{children:"Register"})}}}]);
+//# sourceMappingURL=643.0b1dc277.chunk.js.map

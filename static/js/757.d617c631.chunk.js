@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_nation=self.webpackChunkslim_nation||[]).push([[757],{757:function(n,i,e){e.r(i);var s=e(184);i.default=function(){return(0,s.jsx)("div",{children:"Diary"})}}}]);
+//# sourceMappingURL=757.d617c631.chunk.js.map

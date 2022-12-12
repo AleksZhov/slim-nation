@@ -1,0 +1,10 @@
+.menuBtn {
+    cursor: pointer;
+    stroke: var(--main-color);
+}
+
+.menuBtn:focus,
+.menuBtn:hover {
+    stroke: var(--accent-color);
+    transform: scale(1.2);
+}

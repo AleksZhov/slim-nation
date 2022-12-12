@@ -1,0 +1,30 @@
+.link {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.logoImg {
+    height: 44px;
+    width: 46px;
+    margin-right: 8px;
+}
+
+.logoText {
+    font-size: 18px;
+    letter-spacing: 0.1em;
+}
+
+.subText {
+    color: var(--accent-color);
+}
+
+@media screen and (min-width: 1280px) {
+    .link {
+        align-items: flex-end;
+    }
+    .logoImg {
+        height: 66px;
+        width: 71px;
+        margin-right: -12px;
+    }
+}

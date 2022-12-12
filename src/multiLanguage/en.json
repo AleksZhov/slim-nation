@@ -1,0 +1,10 @@
+{
+    "lang": "en",
+    "pageNotFound": "Page not found",
+    "pageNotFoundBtnText": "Return to main page",
+    "exitBtnText": "Exit",
+    "diaryText": "Diary",
+    "calcText": "Calculator",
+    "loginText":"Login",
+    "registText":"Registration"
+}

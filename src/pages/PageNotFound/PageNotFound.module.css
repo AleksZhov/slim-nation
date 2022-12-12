@@ -1,0 +1,60 @@
+.pageNtFndCont {
+    width: 320px;
+    margin: 0 auto;
+    background-color: rgba(128, 128, 128, 0.315);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+}
+.svgList {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 15px;
+    padding: 0;
+}
+.fire {
+    animation-name: changeColorAndScale;
+    animation-duration: 3000ms;
+    animation-iteration-count: infinite;
+}
+
+@keyframes changeColorAndScale {
+    0% {
+        scale: 1;
+        fill: var(--accent-color);
+        color: red;
+    }
+    50% {
+        scale: 1.1;
+        fill: red;
+        color: blue;
+    }
+    100% {
+        scale: 1;
+        fill: var(--accent-color);
+        color: red;
+    }
+}
+.face {
+    fill: grey;
+}
+.message {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+}
+.number {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: 700;
+    animation-name: changeColorAndScale;
+    animation-duration: 3000ms;
+    animation-iteration-count: infinite;
+}
